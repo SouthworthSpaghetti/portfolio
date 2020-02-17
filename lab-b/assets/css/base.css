@@ -187,18 +187,34 @@ html {
 		clear: both;
   }
   
-  /* Sections/Article */
+@media screen and (min-width: 961px) and (max-width: 1880px) {
 
-	section, article {
-		margin-bottom: 3em;
-	}
+		/* Basic */
 
-		section > :last-child,
-		section > .container, section:last-child, article > :last-child,
-		article > .container, article:last-child {
-			margin-bottom: 0;
-		}
+			body, input, textarea, select {
+				font-size: 17pt;
+      }
+    }
+  
+@media screen and (min-width: 961px) and (max-width: 1320px) {
 
-		.row > section, .row > article {
-			margin-bottom: 0;
-		}
+		/* Basic */
+
+			body, input, textarea, select {
+				font-size: 16pt;
+      }
+    }
+
+@media screen and (max-width: 736px) {
+
+		/* Basic */
+
+			body, input, textarea, select {
+				font-size: 14pt;
+			}
+
+			h2 {
+				font-size: 1.5em;
+				letter-spacing: 0;
+				font-weight: 300;
+			}
