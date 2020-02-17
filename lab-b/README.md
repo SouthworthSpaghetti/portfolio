@@ -40,9 +40,9 @@ Estimate of time needed to complete: _3hrs____
 
 Start time: __5:30pm___
 
-Finish time: _____
+Finish time: _11:50pm____
 
-Actual time needed to complete: _____
+Actual time needed to complete: _Acutal time spent: ~3 hrs__
 ```
 
 Add this information to your README.
