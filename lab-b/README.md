@@ -29,16 +29,16 @@ Estimate of time needed to complete: _1hr____
 
 Start time: __11:25am___
 
-Finish time: _____
+Finish time: _4:45pm____
 
-Actual time needed to complete: _____
+Actual time needed to complete: _had a lunch break and several work related incidents arise during this time block; likely 3.5hrs total____
 ```
 ```
-Number and name of feature: ________________________________
+Number and name of feature: __Feature #2: Modify the contents__
 
-Estimate of time needed to complete: _____
+Estimate of time needed to complete: _3hrs____
 
-Start time: _____
+Start time: __5:30pm___
 
 Finish time: _____
 
