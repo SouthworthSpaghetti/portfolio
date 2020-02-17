@@ -22,7 +22,7 @@ For today's lab assignment, you will work independently to create a personal por
 
 For each of the features listed below, make an estimate of the time it will take you to complete the feature, and record your start and finish times for that feature:
 
-```
+```Feb16
 Number and name of feature: _Feature #1: Refactor the CSS___
 
 Estimate of time needed to complete: _1hr____
@@ -33,7 +33,7 @@ Finish time: _4:45pm____
 
 Actual time needed to complete: _had a lunch break and several work related incidents arise during this time block; likely 3.5hrs total____
 ```
-```
+```Feb16
 Number and name of feature: __Feature #2: Modify the contents__
 
 Estimate of time needed to complete: _3hrs____
@@ -43,6 +43,28 @@ Start time: __5:30pm___
 Finish time: _11:50pm____
 
 Actual time needed to complete: _Acutal time spent: ~3 hrs__
+```
+```Feb17
+Number and name of feature: __Feature #1: Deployment__
+
+Estimate of time needed to complete: _.5hrs____
+
+Start time: __12:15pm___
+
+Finish time: _12:45pm____
+
+Actual time needed to complete: _Acutal time spent: .5hrs (this was done on Friday, Feb 14: https://southworthspaghetti.herokuapp.com/)__
+```
+```Feb17
+Number and name of feature: __Feature #2: Add functionality__
+
+Estimate of time needed to complete: _4hrs____
+
+Start time: __12:45pm___
+
+Finish time: _1:30pm____
+
+Actual time needed to complete: _In the beginning stages of this feature. I've added images for use, gitHub links; need to develop background carousel, use CDN, and work on hamburger menu for tablet @breakpoint.__
 ```
 
 Add this information to your README.
